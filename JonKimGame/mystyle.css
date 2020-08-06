@@ -1,5 +1,10 @@
 #myCanvas { 
-    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjpFN5BqqXUGQYTJMRF0xcs95nu3w5dEo6oA&usqp=CAU")
+    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjpFN5BqqXUGQYTJMRF0xcs95nu3w5dEo6oA&usqp=CAU");
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    background-size: contain;
+    background-color: black;
     
 }
 

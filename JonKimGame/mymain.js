@@ -28,8 +28,6 @@ for(var c=0; c<brickColumnCount; c++) {
   }
 }
 
-var text = 
-
 document.addEventListener("keydown", keyDownHandler, false);
 document.addEventListener("keyup", keyUpHandler, false);
 document.addEventListener("mousemove", mouseMoveHandler, false);
